@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DominoGame", "DominoGame\DominoGame.csproj", "{A21F415C-EC20-45EC-A0F2-68DB53F1E992}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DominoGame.Tests", "DominoGame.Tests\DominoGame.Tests.csproj", "{F5123B54-A4D0-4B6A-BF0F-8E29E06E3A9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6831EB94-7825-4B19-BF3D-130C64081BEC}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A21F415C-EC20-45EC-A0F2-68DB53F1E992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A21F415C-EC20-45EC-A0F2-68DB53F1E992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A21F415C-EC20-45EC-A0F2-68DB53F1E992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A21F415C-EC20-45EC-A0F2-68DB53F1E992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5123B54-A4D0-4B6A-BF0F-8E29E06E3A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5123B54-A4D0-4B6A-BF0F-8E29E06E3A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5123B54-A4D0-4B6A-BF0F-8E29E06E3A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5123B54-A4D0-4B6A-BF0F-8E29E06E3A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89FA903A-1D1A-4723-94C8-B35D79B721AA}
+	EndGlobalSection
+EndGlobal
